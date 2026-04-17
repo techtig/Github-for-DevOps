@@ -1,0 +1,42 @@
+ 1  ls
+    2  hostname
+    3  sudo hostnamectl set-hostname git
+    4  sudo hostnamectl set-hostname git
+    5  hostname
+    6  sudo apt install git -y
+    7  git --version
+    8  docker --version
+    9  mkdir gitpractise
+   10  cd gitpractise/
+   11  cd~
+   12  cd ~
+   13  git --version
+   14  cd gitpractise/
+   15  ls 
+   16  ls -a
+   17  ls -la
+   18  git init
+   19  ls -la
+   20  ls -a
+   21  git status
+   22  git --version
+   23  ls -la
+   24  cd gitpractise/
+   25  ls -a
+   26  touch testing.py > "How are you guyz"
+   27  cat testing.py 
+   28  ls
+   29  git status
+   30  git rm "How are you guyz"
+   31  ls
+   32  git status
+   33  git add .
+   34  git status
+   35  git commit -m "Adding Testing file"
+   36  git status
+   37  rm testing.py 
+   38  ls -la
+   39  git status
+   40  git restore testing.py 
+   41  git status
+   42  history
